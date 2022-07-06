@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djidji09
 - 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html&css
 - 💞️ I’m looking to collaborate on small project
 - 📫 How to reach me discord youcef_djidji#3099
 
