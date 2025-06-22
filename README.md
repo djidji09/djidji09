@@ -1,6 +1,7 @@
 - 👋 Hi, I’m youcef djelouah
 - 👀 I’m interested in web_dev
-- 🌱 I’m currently working on my final project of the cs50 course
+- 🌱 I’m currently studying in the university of algiers 1 
+-    i'm very interested in web dev and cyber security
 - 📫 How to reach me discord youcef_djidji
 
 <!---
